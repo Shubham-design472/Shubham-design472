@@ -91,10 +91,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Shubham-design472?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/followers/Shubham-design472?style=for-the-badge&color=blue" />
-</p>
+<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=Shubham-design472&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Shubham-design472&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 ---
 
