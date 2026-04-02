@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shubham Pal 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer · ML Enthusiast · IIT Bhilai</b>
+  <b>Full Stack Developer · CyberSecurity · IIT Bhilai</b>
 </p>
 
 <p align="center">
