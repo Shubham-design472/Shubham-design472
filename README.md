@@ -101,8 +101,8 @@
 
 I'm actively looking for **internship and full-time opportunities**. Feel free to reach out!
 
-- 📧 Email: **YOUR-EMAIL@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/YOUR-LINKEDIN-ID**
+- 📧 Email: **shubhamr2520@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/shubham-pal-633088267**
 - 🌐 Portfolio: **[View my work](https://shubham-design472.github.io/Portfolio)**
 
 ---
