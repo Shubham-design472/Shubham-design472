@@ -22,7 +22,7 @@
 
 - 🎓 **M.Tech student at IIT Bhilai**, passionate about building real-world web applications
 - 🔭 Currently working on **full-stack projects** using Django & Node.js
-- 🤖 Interested in applying **Machine Learning** to solve practical problems
+- 🤖 Interested in learning **Machine Learning** to solve practical problems
 - 🌱 Always learning — currently exploring **REST APIs, backend architecture & cloud deployment**
 - 💬 Ask me about **C++/Python, Django, JavaScript, Node.js**
 - ⚡ Fun fact: I built a system that detects **cyberattacks on smart grids** using Hidden Markov Models!
