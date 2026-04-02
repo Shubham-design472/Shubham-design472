@@ -88,12 +88,12 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
-<img src="https://YOUR-VERCEL-URL.vercel.app/api?username=Shubham-design472&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Shubham-design472&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<p align="center">
+  <img src="https://github-readme-stats-rose-psi-56.vercel.app/api?username=Shubham-design472&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-rose-psi-56.vercel.app/api/top-langs/?username=Shubham-design472&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
