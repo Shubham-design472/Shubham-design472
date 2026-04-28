@@ -88,6 +88,19 @@
 
 ---
 
+
+### 🍳 ChefClaude – AI Recipe Generator
+> A React-based web app that generates recipes from user-provided ingredients using AI.
+
+-Built an interactive UI to add ingredients and generate recipes dynamically
+-Integrated Hugging Face API for AI-powered recipe suggestions
+-Implemented async API handling, error management, and conditional rendering
+-Learned API integration and debugging through FreeCodeCamp
+
+Stack: React · JavaScript · Hugging Face API · HTML/CSS
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
