@@ -89,7 +89,7 @@
 ---
 
 
-### 🍳 ChefClaude – AI Recipe Generator
+### 🍳 [ChefClaude – AI Recipe Generator](https://github.com/Shubham-design472/ChefClaude-App)
 > A React-based web app that generates recipes from user-provided ingredients using AI.
 
 -Built an interactive UI to add ingredients and generate recipes dynamically
